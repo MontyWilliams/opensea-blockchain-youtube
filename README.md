@@ -6,5 +6,9 @@
     - set up royalty 
     - style
 
-- Next version
+- N ext version
     - add mp4 player
+
+### Credit
+
+This Dapp was built using [CleverProgrammer](https://github.com/CleverProgrammers/opensea-blockchain-youtube)
